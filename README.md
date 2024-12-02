@@ -64,27 +64,27 @@ Durante la clase realizaremos una serie de actividades para poner en práctica l
 
 :link: [Página web]()
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/eje47vygy9n7d54qispb6/ejemplo-1_extraer-texto.py?rlkey=fb525np5qnz11z6irfxa0kb99&st=tkp8ryv2&dl=0)
 
 
 ### Ejercicio 2: extraer tablas
 
 :link: [Página web ejemplo 1](https://www.worldometers.info/world-population/population-by-country/) / [Página web ejemplo 2](https://es.wikipedia.org/wiki/Anexo:%C3%81lbumes_musicales_m%C3%A1s_vendidos)
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/gwfnmyrjyc366xjgrodvq/ejemplo-2_extraer-tablas.py?rlkey=xv8gmr08kl2f2ow3wket8cgsv&st=p3590j6f&dl=0)
 
 ### Ejercicio 3: extraer enlaces y descargar archivos
 
 :link: [Página web](https://www.memoriachilena.gob.cl/602/w3-article-644324.html)
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/o00lu4sny8uadsigigq72/ejemplo-3_descargar-archivos.py?rlkey=lge1dom7sqj0h99k6g4jdofzl&st=jor0mkfa&dl=0)
 
 
 ### Ejercicio 4: demo selenium
 
 :link: [Página web](https://www.memoriachilena.gob.cl)
 
-:page_facing_up: [Código escrito en clases]()
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/zrjxh4le2euo35r0h6znr/ejemplo-4_demo-selenium.py?rlkey=esxk0y39w0ooa7ry34ez385o6&st=0ns2uzop&dl=0)
 
 
 ## Recursos adicionales
@@ -93,4 +93,3 @@ Durante la clase realizaremos una serie de actividades para poner en práctica l
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 [Selenium](https://www.selenium.dev/documentation/)
-# diplomado-ds-2024-web-scraping
