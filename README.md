@@ -62,7 +62,7 @@ Durante la clase realizaremos una serie de actividades para poner en práctica l
 
 ### Ejercicio 1: extraer texto
 
-:link: [Página web]()
+:link: [Página web](https://www.minciencia.gob.cl/noticias/plan-de-data-centers-se-abre-a-consulta-ciudadana-convocada-por-el-ministerio-de-ciencia/)
 
 :page_facing_up: [Código escrito en clases](https://www.dropbox.com/scl/fi/eje47vygy9n7d54qispb6/ejemplo-1_extraer-texto.py?rlkey=fb525np5qnz11z6irfxa0kb99&st=tkp8ryv2&dl=0)
 
