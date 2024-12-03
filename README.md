@@ -93,3 +93,8 @@ Durante la clase realizaremos una serie de actividades para poner en práctica l
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 [Selenium](https://www.selenium.dev/documentation/)
+
+#### En R
+
+El paquete [rvest](https://rvest.tidyverse.org/) nos permite hacer web scraping en sitios web estáticos usando R. [Este tutorial](https://programminghistorian.org/es/lecciones/introduccion-al-web-scraping-usando-r) cubre lo que vimos en el primer ejemplo (extracción de texto). 
+Existe también un paquete que se llama [RSelenium](https://docs.ropensci.org/RSelenium/) que permite trabajar con sitios web dinámicos, pero solo funciona con la versión 2.0 de Selenium.
